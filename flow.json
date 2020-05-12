@@ -578,9 +578,7 @@
         "x": 180,
         "y": 120,
         "wires": [
-            [
-                "b7f42b42.86dd78"
-            ]
+            []
         ]
     },
     {
@@ -597,22 +595,6 @@
                 "cfeae060.980dc"
             ]
         ]
-    },
-    {
-        "id": "b7f42b42.86dd78",
-        "type": "ui_text",
-        "z": "6e331fe0.e468d",
-        "group": "d70acf5c.c918f",
-        "order": 0,
-        "width": 0,
-        "height": 0,
-        "name": "",
-        "label": "text",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "x": 380,
-        "y": 160,
-        "wires": []
     },
     {
         "id": "cfeae060.980dc",
