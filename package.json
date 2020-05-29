@@ -4,10 +4,12 @@
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-excel": "0.0.3",
-        "node-red-contrib-scx-ibmiotapp": "0.0.49",
         "node-red-dashboard": "2.22.1",
         "node-red-contrib-ui-led-fork": "0.3.1",
-        "node-red-contrib-ui-media": "1.2.0"
+        "node-red-contrib-ui-media": "1.2.0",
+        "node-red-contrib-browser-utils": "0.0.9",
+        "node-red-contrib-ui-level": "0.1.31",
+        "node-red-node-sentiment": "0.1.6"
     },
     "node-red": {
         "settings": {
